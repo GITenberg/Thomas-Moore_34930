@@ -1,0 +1,16 @@
+%pagenumbers = (
+);
+
+$bookmarks[0] = '3291.72';
+
+
+@operations = (
+'Wed Jan 12 13:13:08 2011 - Open C:\ACTIVE\ADD\34930\34930.txt',
+'Wed Jan 12 13:15:31 2011 - File Saved',
+);
+
+$spellindexbkmrk = '';
+
+$scannoslistpath = '';
+
+1;
