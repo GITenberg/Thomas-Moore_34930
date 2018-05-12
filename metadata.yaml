@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2451
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Lucius_Gwynn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34930#Thomas-Moore
 gutenberg_issued: '2011-01-12'
 gutenberg_type: Text
 identifiers:
